@@ -1,4 +1,4 @@
-# Bike Store Sales database-based Dashboard with Power BI
+# Bike Store Sales Dashboard with Power BI
 
 ## Dashboard describing sales made by a fictional bike store throughout the 18-month period
 
